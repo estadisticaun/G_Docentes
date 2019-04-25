@@ -1,968 +1,986 @@
 
-ensions/Scroller/css/scroller.dataTables.min.css.[0K
+edHeader/css/fixedHeader.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Scroller/css/scroller.foundation.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fi[0Kx[?25l
+edHeader/js/dataTables.fixedHeader.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Scroller/css/scroller.jqueryui.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
+Table/[0K[?25hcss/keyTable.bootstrap.min.css.[0K[?25l
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.semanticui.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky[?25l
+Table/css/keyTable.bootstrap4.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/js/dataTables.scroller.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
+Table/css/keyTable.dataTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.bootstrap.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
+Table/css/keyTable.foundation.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.bootstrap4.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
+Table/css/keyTable.jqueryui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.dataTables.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
+Table/css/keyTable.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.foundation.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ke[0Ky
+Table/js/dataTables.keyTable.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/css/select.jqueryui.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/css/responsive.bootstrap.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.semanticui.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/css/responsive.bootstrap4.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt[?25l
-ensions/Select/js/dataTables.select.min.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/css/responsive.dataTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku[?25l
-gins/natural/natural.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/css/responsive.foundation.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
-gins/searchHighlight/dataTables.searchHighlight.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/css/responsive.jqueryui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku[?25l
-gins/searchHighlight/dataTables.searchHighlight.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
+ponsive/css/responsive.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku[?25l
-gins/searchHighlight/jquery.highlight.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
+ponsive/js/dataTables.responsive.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.bootstrap.extra.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
+ponsive/js/responsive.bootstrap.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.bootstrap.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/js/responsive.bootstrap4.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.bootstrap4.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/js/responsive.foundation.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.foundation.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks
+ponsive/js/responsive.jqueryui.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.jqueryui.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Re[0Ks[?25l
+ponsive/js/responsive.semanticui.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.material.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Group/css/rowGroup.bootstrap.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.semanticui.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Group/css/rowGroup.bootstrap4.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/dataTables.uikit.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Group/css/rowGroup.dataTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/jquery.dataTables.extra.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Group/css/rowGroup.foundation.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks[?25l
-/jquery.dataTables.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Group/css/rowGroup.jqueryui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.bootstrap.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Group/css/rowGroup.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.bootstrap4.min.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw[?25l
+Group/js/dataTables.rowGroup.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.foundation.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Reorder/css/rowReorder.bootstrap.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.jqueryui.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Reorder/css/rowReorder.bootstrap4.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.material.min.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw[?25l
+Reorder/css/rowReorder.dataTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.semanticui.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Reorder/css/rowReorder.foundation.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-dataTables.uikit.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Reorder/css/rowReorder.jqueryui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/[?25l
-jquery.dataTables.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Ro[0Kw
+Reorder/css/rowReorder.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/datatables/li[0Kc[?25l
-ense.txt.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
+oller/css/scroller.bootstrap.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/jquery/LICENS[0KE[?25l
-.txt.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr[?25l
+oller/css/scroller.bootstrap4.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/jquery/jquery[0K.[?25l
-min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
+oller/css/scroller.dataTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku[?25l
-ery.nouislider.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
+oller/css/scroller.foundation.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku[?25l
-ery.nouislider.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
+oller/css/scroller.jqueryui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke[?25l
-ctize.bootstrap3.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
+oller/css/scroller.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke[?25l
-ctize.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sc[0Kr
+oller/js/dataTables.scroller.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/datatables-css-0.0.0/datatables-crosstal[0Kk[?25l
-.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl[?25l
+ect/css/select.bootstrap.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-core-1.10.16/css/jquery.dataTables.ex[0Kt
-ra.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
+ect/css/select.bootstrap4.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-core-1.10.16/css/jquery.dataTables.mi[0Kn
-.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
+ect/css/select.dataTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min[0K.
-js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl[?25l
+ect/css/select.foundation.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataT[0Ka
-bles.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
+ect/css/select.jqueryui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis[0K.
-min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
+ect/css/select.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.[0Km
-in.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Se[0Kl
+ect/js/dataTables.select.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.[0Km
-in.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natur[0Ka
+l/natural.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.[0Km
-in.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searc[0Kh[?25l
+Highlight/dataTables.searchHighlight.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.but[0Kt
-ons.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searc[0Kh
+Highlight/dataTables.searchHighlight.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dat[0Ka
-Tables.min.css.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searc[0Kh
+Highlight/jquery.highlight.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.ke[0Ky
-Table.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
+.bootstrap.extra.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-responsive-1.10.16/css/responsive[0K.
-dataTables.min.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks[?25l
+.bootstrap.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.[0Kr
-esponsive.min.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks[?25l
+.bootstrap4.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
-les.searchHighlight.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks[?25l
+.foundation.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
-les.searchHighlight.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
+.jqueryui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery[0K.
-highlight.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks[?25l
+.material.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/highchartct.js.[0K[?25l
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks
+.semanticui.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K.[?25l
-[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTable[0Ks[?25l
+.uikit.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K.[?25l
-[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.da[0Kt[?25l
+aTables.extra.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/highchartzero.ya[0Km[?25l
-l.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.da[0Kt
+aTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/css/motion.css.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.[?25l
+bootstrap.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/custom/reset.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.[?25l
+bootstrap4.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/custom/symbols-extra.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.[?25l
+foundation.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/custom/text-symbols.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.[?25l
+jqueryui.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/highcharts-3d.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.[?25l
+material.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/highcharts-more.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.[?25l
+semanticui.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/highcharts.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables[0K.[?25l
+uikit.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/maps/modules/map.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dat[0Ka[?25l
+Tables.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/accessibility.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/datatables/license.txt.[0K[?25l
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/annotations.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt.[0K[?25l
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/boost-canvas.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/boost.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouisl[0Ki[?25l
+der.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/broken-axis.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouisl[0Ki[?25l
+der.min.js.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/bullet.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/selectize/selectize.boot[0Ks[?25l
+trap3.css.[0K
 The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/data.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/drag-panes.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/drilldown.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/export-data.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/funnel.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/gantt.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/grid-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/heatmap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/histogram-bellcurve.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/item-series.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/no-data-to-display.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/offline-exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/oldie.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/overlapping-datalabels.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/parallel-coordinates.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/pareto.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/sankey.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/series-label.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/solid-gauge.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/static-scale.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/stock.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/streamgraph.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/sunburst.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/treemap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/variable-pie.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/variwide.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/vector.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/windbarb.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/wordcloud.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/modules/xrange.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.[?25l
-0.3/stock/highstock.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj[0K4[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/css/motion.css.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/custom/reset.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/custom/text-symbols.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/highcharts-3d.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/highcharts-more.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/highcharts.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/maps/modules/map.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/accessibility.j[0Ks
-.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/annotations.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/boost.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/broken-axis.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/bullet.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/data.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/drag-panes.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/drilldown.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/export-data.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/funnel.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/gantt.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/grid-axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/heatmap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/histogram-bellc[0Ku
-rve.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/item-series.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/no-data-to-disp[0Kl
-ay.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/offline-exporti[0Kn
-g.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/oldie.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/overlapping-dat[0Ka
-labels.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/parallel-coordi[0Kn
-ates.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/pareto.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/sankey.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/series-label.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/solid-gauge.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/stock.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/streamgraph.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/sunburst.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/treemap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K.
-[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/variwide.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/vector.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/windbarb.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/wordcloud.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/modules/xrange.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/highcharts-6.0.3/stock/highstock.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/htmlwidgets-1.2/htmlwidgets.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/libraryjs/jquery-1.12.4/LICENSE.txt.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/jquery-1.12.4/jquery.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/jszip-1.10.16/jszip.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/nouislider-7.0.10/jquery.nouislider.min.[0Kc
-ss.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/nouislider-7.0.10/jquery.nouislider.min.[0Kj
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.[0Kj[?25l
 s.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/pdfmake-1.10.16/pdfmake.min.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/proj4js-2.3.15/proj4.js.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/selectize-0.12.0/selectize.bootstrap3.cs[0Ks
-.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css.[0K
 The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/libraryjs/selectize-0.12.0/selectize.min.js.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.c[0Ks
+s.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0K.
+[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min[0K.
+css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.[0Kj
+s.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables[0K.
+min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.[0Km
+in.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.search[0KH
+ighlight.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.search[0KH
+ighlight.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.[0Kj
+s.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/highchartct.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/highchartct.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/highchartzero.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/highchartzero.yaml.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/mo[0Kt
+ion.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom[0K/
+reset.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom[0K/
+symbols-extra.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom[0K/[?25l
+text-symbols.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highch[0Ka
+rts-3d.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highch[0Ka[?25l
+rts-more.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highch[0Ka[?25l
+rts.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/m[0Ko[?25l
+dules/map.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/accessibility.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/annotations.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/boost-canvas.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/boost.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/broken-axis.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/bullet.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/data.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/drag-panes.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/drilldown.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/export-data.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/exporting.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/funnel.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/gantt.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/grid-axis.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/heatmap.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/histogram-bellcurve.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/item-series.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/no-data-to-display.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/offline-exporting.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/oldie.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/overlapping-datalabels.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/parallel-coordinates.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/pareto.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/sankey.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/series-label.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/solid-gauge.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/static-scale.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/stock.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/streamgraph.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/sunburst.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/treemap.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/variable-pie.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/variwide.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/vector.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/windbarb.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks[?25l
+/wordcloud.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/module[0Ks
+/xrange.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/[0Kh[?25l
+ighstock.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/css/motion.css.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/custom/reset.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/custom/symbols-extra.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/custom/text-symbols.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/highcharts-3d.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/highcharts-more.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/highcharts.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/maps/modules/map.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/accessibility.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/annotations.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/boost-canvas.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/boost.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/broken-axis.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/bullet.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/data.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/drag-panes.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/drilldown.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/export-data.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/exporting.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/funnel.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/gantt.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/grid-axis.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/heatmap.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/item-series.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/offline-exporting.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/oldie.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/pareto.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/sankey.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/series-label.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/solid-gauge.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/static-scale.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/stock.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/streamgraph.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/sunburst.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/treemap.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/variable-pie.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/variwide.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/vector.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/windbarb.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/wordcloud.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/modules/xrange.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/highcharts-6.0.3/stock/highstock.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/htmlwidgets-1.2/htmlwidgets.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/jquery-1.12.4/LICENSE.txt.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/jquery-1.12.4/jquery.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/jszip-1.10.16/jszip.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/pdfmake-1.10.16/pdfmake.min.js.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in 20182/libraryjs/proj4js-2.3.15/proj4.js.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/selectize-0.12.0/selectize.bootstrap3.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in 20182/libraryjs/selectize-0.12.0/selectize.min.js.[0K
 The file will have its original line endings in your working directory.[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Doc[0Ke
-ntes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hp[0Kr[0Ki[0Km[0Ke[0Kr[0Ka[0K[26G[?25l$ git commit -m "primera c[0K[?25ha[0Kr[0Kg[0Ka[0K[32G[?25l$ git commit -m "primera carga o[0K[?25hb[0Kj[0Ke[0Kt[0Ko[0Ks[0K[40G[?25l$ git commit -m "primera carga objetos g[0K[?25hr[0Ká[0Kf[0Ki[0Kc[0Ko[0Ks[0K"[0K[?25l
-[0K[?25h[master (root-commit) 3f334f5] primera carga objetos gráficos[0K[?25l
- 325 files changed, 12865 insertions(+)[0K
- create mode 100644 .Rproj.user/B994EF53/console06/E0C9ECB1[0K
- create mode 100644 .Rproj.user/B994EF53/console06/INDEX001[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-8B20F5D2/A30C88E8[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-8B20F5D2/A30C88E8-contents[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-8B20F5D2/lock_file[0K
- create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
- create mode 100644 20181/A_categoria.html[0K
- create mode 100644 20181/A_dedicacion.html[0K
- create mode 100644 20181/A_edad.html[0K
- create mode 100644 20181/A_formacion.html[0K
- create mode 100644 20181/A_lformacion.html[0K
- create mode 100644 20181/A_nacionalidad.html[0K
- create mode 100644 20181/A_sede.html[0K
- create mode 100644 20181/A_servicio.html[0K
- create mode 100644 20181/A_sexo.html[0K
- create mode 100644 20181/S_categoria.html[0K
- create mode 100644 20181/S_dedicacion.html[0K
- create mode 100644 20181/S_edad.html[0K
- create mode 100644 20181/S_formacion.html[0K
- create mode 100644 20181/S_lformacion.html[0K
- create mode 100644 20181/S_nacionalidad.html[0K
- create mode 100644 20181/S_sede.html[0K
- create mode 100644 20181/S_servicio.html[0K
- create mode 100644 20181/S_sexo.html[0K
- create mode 100644 20181/Serie.html[0K
- create mode 100644 20181/T_categoria.html[0K
- create mode 100644 20181/T_dedicacion.html[0K
- create mode 100644 20181/T_edad.html[0K
- create mode 100644 20181/T_formacion.html[0K
- create mode 100644 20181/T_lformacion.html[0K
- create mode 100644 20181/T_nacionalidad.html[0K
- create mode 100644 20181/T_sede.html[0K
- create mode 100644 20181/T_servicio.html[0K
- create mode 100644 20181/T_sexo.html[0K
- create mode 100644 20181/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
- create mode 100644 20181/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
- create mode 100644 20181/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
- create mode 100644 20181/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
- create mode 100644 20181/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/css/datatables-crosstalk.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/datatables.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/datatables.yaml[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.bootstrap.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.bootstrap4.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.foundation.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.jqueryui.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.semanticui.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-dataTables.autoFill.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.bootstrap.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.bootstrap4.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.colVis.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.flash.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.foundation.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.html5.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.jqueryui.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.print.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.semanticui.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kd
-ataTables.buttons.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kj
-szip.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kp
-dfmake.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kv
-fs_fonts.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/swf[0K/
-flashExport.swf[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kj
-s/dataTables.colReorder.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumn[0Ks
-/css/fixedColumns.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumn[0Ks
-/css/fixedColumns.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumn[0Ks
-/css/fixedColumns.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumn[0Ks
-/css/fixedColumns.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumn[0Ks
-/css/fixedColumns.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumn[0Ks
-/css/fixedColumns.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumn[0Ks
-/js/dataTables.fixedColumns.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader[0K/
-css/fixedHeader.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader[0K/
-css/fixedHeader.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader[0K/
-css/fixedHeader.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader[0K/
-css/fixedHeader.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader[0K/
-css/fixedHeader.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader[0K/
-css/fixedHeader.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader[0K/
-js/dataTables.fixedHeader.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/cs[0Ks
-/keyTable.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/cs[0Ks
-/keyTable.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/cs[0Ks
-/keyTable.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/cs[0Ks
-/keyTable.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/cs[0Ks
-/keyTable.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/cs[0Ks
-/keyTable.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/js[0K/
-dataTables.keyTable.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kc
-ss/responsive.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kc
-ss/responsive.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kc
-ss/responsive.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kc
-ss/responsive.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kc
-ss/responsive.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kc
-ss/responsive.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kj
-s/dataTables.responsive.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kj
-s/responsive.bootstrap.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kj
-s/responsive.bootstrap4.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kj
-s/responsive.foundation.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kj
-s/responsive.jqueryui.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/[0Kj
-s/responsive.semanticui.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/cs[0Ks
-/rowGroup.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/cs[0Ks
-/rowGroup.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/cs[0Ks
-/rowGroup.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/cs[0Ks
-/rowGroup.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/cs[0Ks
-/rowGroup.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/cs[0Ks
-/rowGroup.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/js[0K/
-dataTables.rowGroup.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/[0Kc
-ss/rowReorder.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/[0Kc
-ss/rowReorder.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/[0Kc
-ss/rowReorder.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/[0Kc
-ss/rowReorder.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/[0Kc
-ss/rowReorder.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/[0Kc
-ss/rowReorder.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/[0Kj
-s/dataTables.rowReorder.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/cs[0Ks
-/scroller.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/js[0K/
-dataTables.scroller.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.bootstrap.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.bootstrap4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.foundation.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.jqueryui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/[0Ks
-elect.semanticui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/js/d[0Ka
-taTables.select.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natural/natura[0Kl
-.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighligh[0Kt
-/dataTables.searchHighlight.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighligh[0Kt
-/dataTables.searchHighlight.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighligh[0Kt
-/jquery.highlight.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstr[0Ka
-p.extra.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstr[0Ka
-p.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstr[0Ka
-p4.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.foundat[0Ki
-on.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.jqueryu[0Ki
-.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.materia[0Kl
-.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.semanti[0Kc
-ui.min.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.uikit.m[0Ki
-n.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTables.[0Ke
-xtra.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTables.[0Km
-in.css[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bootstra[0Kp
-.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bootstra[0Kp
-4.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.foundati[0Ko
-n.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.jqueryui[0K.
-min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.material[0K.
-min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.semantic[0Ku
-i.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.uikit.mi[0Kn
-.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dataTables.m[0Ki
-n.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider.min.[0Kc
-ss[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider.min.[0Kj
-s[0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/selectize/selectize.bootstrap3.cs[0Ks
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Docentes[0;36m (mast[0Ke
+r)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hC[0Ka[0Kr[0Kg[0Ka[0K[24G[?25l$ git commit -m "Carga o[0K[?25hb[0Kj[0Ke[0Kt[0Ko[0Ks[0K[32G[31G[?25l$ git commit -m "Carga objeto[0K[?25h[?25l$ git commit -m "Carga objet[0K[?25h[?25l$ git commit -m "Carga obje[0K[?25h[?25l$ git commit -m "Carga obj[0K[?25h[?25l$ git commit -m "Carga ob[0K[?25h[?25l$ git commit -m "Carga o[0K[?25h[?25l$ git commit -m "Carga[0K[24G[?25h[?25l$ git commit -m "Carga e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ks[0K[37G[?25l$ git commit -m "Carga estadisticas p[0K[?25he[0Kr[0Ki[0Ko[0Kd[0Ko[0K[45G[?25l$ git commit -m "Carga estadisticas periodo 2[0K[?25h0[0K1[0K8[0K-[0K2[0K"[0K[?25l
+[0K[?25h[master fe2b831] Carga estadisticas periodo 2018-2[0K[?25l
+ 330 files changed, 13869 insertions(+), 10 deletions(-)[0K
+ rename .Rproj.user/B994EF53/sources/s-8B20F5D2/A30C88E8-contents => .Rhistory (100%)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (100%)[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/B994EF53/rmd-outputs[0K
+ create mode 100644 .Rproj.user/B994EF53/saved_source_markers[0K
+ rename .Rproj.user/B994EF53/sources/{s-8B20F5D2 => s-E404782F}/A30C88E8 (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-8B20F5D2/lock_file => s-E404782F/A30C88E8-contents} (100%)[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-E404782F/lock_file[0K
+ create mode 100644 20182/A_categoria.html[0K
+ create mode 100644 20182/A_dedicacion.html[0K
+ create mode 100644 20182/A_edad.html[0K
+ create mode 100644 20182/A_formacion.html[0K
+ create mode 100644 20182/A_lformacion.html[0K
+ create mode 100644 20182/A_nacionalidad.html[0K
+ create mode 100644 20182/A_sede.html[0K
+ create mode 100644 20182/A_servicio.html[0K
+ create mode 100644 20182/A_sexo.html[0K
+ create mode 100644 20182/S_categoria.html[0K
+ create mode 100644 20182/S_dedicacion.html[0K
+ create mode 100644 20182/S_edad.html[0K
+ create mode 100644 20182/S_formacion.html[0K
+ create mode 100644 20182/S_lformacion.html[0K
+ create mode 100644 20182/S_nacionalidad.html[0K
+ create mode 100644 20182/S_sede.html[0K
+ create mode 100644 20182/S_servicio.html[0K
+ create mode 100644 20182/S_sexo.html[0K
+ create mode 100644 20182/Serie.html[0K
+ create mode 100644 20182/T_categoria.html[0K
+ create mode 100644 20182/T_dedicacion.html[0K
+ create mode 100644 20182/T_edad.html[0K
+ create mode 100644 20182/T_formacion.html[0K
+ create mode 100644 20182/T_lformacion.html[0K
+ create mode 100644 20182/T_nacionalidad.html[0K
+ create mode 100644 20182/T_sede.html[0K
+ create mode 100644 20182/T_servicio.html[0K
+ create mode 100644 20182/T_sexo.html[0K
+ create mode 100644 20182/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
+ create mode 100644 20182/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
+ create mode 100644 20182/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
+ create mode 100644 20182/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
+ create mode 100644 20182/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/css/datatables-crosstalk.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/datatables.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/datatables.yaml[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/css/autoFill.[0Kb
+ootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/css/autoFill.[0Kb
+ootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/css/autoFill.[0Kd
+ataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/css/autoFill.[0Kf
+oundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/css/autoFill.[0Kj
+queryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/css/autoFill.[0Ks
+emanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js/autoFill.b[0Ko
+otstrap.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js/autoFill.b[0Ko
+otstrap4.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js/autoFill.f[0Ko
+undation.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js/autoFill.j[0Kq
+ueryui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js/autoFill.s[0Ke
+manticui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js/dataTables[0K.
+autoFill.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css/buttons.bo[0Ko
+tstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css/buttons.bo[0Ko
+tstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css/buttons.da[0Kt
+aTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css/buttons.fo[0Ku
+ndation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css/buttons.jq[0Ku
+eryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css/buttons.se[0Km
+anticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.boo[0Kt
+strap.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.boo[0Kt
+strap4.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.col[0KV
+is.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.fla[0Ks
+h.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.fou[0Kn
+dation.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.htm[0Kl
+5.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.jqu[0Ke
+ryui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.pri[0Kn
+t.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/buttons.sem[0Ka
+nticui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/dataTables.[0Kb
+uttons.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/jszip.min.j[0Ks
 [0K
- create mode 100644 20181/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.js[0K
- create mode 100644 20181/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
- create mode 100644 20181/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
- create mode 100644 20181/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
- create mode 100644 20181/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0K
- create mode 100644 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0K
- create mode 100644 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0K
- create mode 100644 20181/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0K
- create mode 100644 20181/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0K
- create mode 100644 20181/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.js[0K
- create mode 100644 20181/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables.min.css[0K
- create mode 100644 20181/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.min.js[0K
- create mode 100644 20181/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHighlight[0K.
-css[0K
- create mode 100644 20181/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHighlight[0K.
-min.js[0K
- create mode 100644 20181/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchart.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/motion.css[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/reset.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/symbols-[0Ke
-xtra.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/text-sym[0Kb
-ols.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts-3d.j[0Ks
-[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts-more[0K.
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/pdfmake.min[0K.
 js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/modules/ma[0Kp
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/vfs_fonts.j[0Ks
+[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/swf/flashExpor[0Kt
+.swf[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/css/colReor[0Kd
+er.bootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/css/colReor[0Kd
+er.bootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/css/colReor[0Kd
+er.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/css/colReor[0Kd
+er.foundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/css/colReor[0Kd
+er.jqueryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/css/colReor[0Kd
+er.semanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/js/dataTabl[0Ke
+s.colReorder.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumns/css/fixed[0KC
+olumns.bootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumns/css/fixed[0KC
+olumns.bootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumns/css/fixed[0KC
+olumns.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumns/css/fixed[0KC
+olumns.foundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumns/css/fixed[0KC
+olumns.jqueryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumns/css/fixed[0KC
+olumns.semanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedColumns/js/dataTa[0Kb
+les.fixedColumns.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader/css/fixedH[0Ke
+ader.bootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader/css/fixedH[0Ke
+ader.bootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader/css/fixedH[0Ke
+ader.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader/css/fixedH[0Ke
+ader.foundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader/css/fixedH[0Ke
+ader.jqueryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader/css/fixedH[0Ke
+ader.semanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedHeader/js/dataTab[0Kl
+es.fixedHeader.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/css/keyTable.[0Kb
+ootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/css/keyTable.[0Kb
+ootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/css/keyTable.[0Kd
+ataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/css/keyTable.[0Kf
+oundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/css/keyTable.[0Kj
+queryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/css/keyTable.[0Ks
+emanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTable/js/dataTables[0K.
+keyTable.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/css/respons[0Ki
+ve.bootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/css/respons[0Ki
+ve.bootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/css/respons[0Ki
+ve.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/css/respons[0Ki
+ve.foundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/css/respons[0Ki
+ve.jqueryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/css/respons[0Ki
+ve.semanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/js/dataTabl[0Ke
+s.responsive.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/js/responsi[0Kv
+e.bootstrap.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/js/responsi[0Kv
+e.bootstrap4.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/js/responsi[0Kv
+e.foundation.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/js/responsi[0Kv
+e.jqueryui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Responsive/js/responsi[0Kv
+e.semanticui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/css/rowGroup.[0Kb
+ootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/css/rowGroup.[0Kb
+ootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/css/rowGroup.[0Kd
+ataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/css/rowGroup.[0Kf
+oundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/css/rowGroup.[0Kj
+queryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/css/rowGroup.[0Ks
+emanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGroup/js/dataTables[0K.
+rowGroup.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/css/rowReor[0Kd
+er.bootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/css/rowReor[0Kd
+er.bootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/css/rowReor[0Kd
+er.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/css/rowReor[0Kd
+er.foundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/css/rowReor[0Kd
+er.jqueryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/css/rowReor[0Kd
+er.semanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReorder/js/dataTabl[0Ke
+s.rowReorder.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/css/scroller.[0Kb
+ootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/css/scroller.[0Kb
+ootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/css/scroller.[0Kd
+ataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/css/scroller.[0Kf
+oundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/css/scroller.[0Kj
+queryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/css/scroller.[0Ks
+emanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroller/js/dataTables[0K.
+scroller.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/select.boot[0Ks
+trap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/select.boot[0Ks
+trap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/select.data[0KT
+ables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/select.foun[0Kd
+ation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/select.jque[0Kr
+yui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/css/select.sema[0Kn
+ticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select/js/dataTables.s[0Ke
+lect.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natural/natural.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighlight/dataTable[0Ks
+.searchHighlight.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighlight/dataTable[0Ks
+.searchHighlight.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHighlight/jquery.hi[0Kg
+hlight.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstrap.extra.cs[0Ks
+[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstrap.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bootstrap4.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.foundation.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.jqueryui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.material.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.semanticui.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.uikit.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTables.extra.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bootstrap.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.bootstrap4.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.foundation.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.jqueryui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.material.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.semanticui.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.uikit.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dataTables.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider.min.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/selectize/selectize.bootstrap3.css[0K
+ create mode 100644 20182/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.js[0K
+ create mode 100644 20182/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
+ create mode 100644 20182/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
+ create mode 100644 20182/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
+ create mode 100644 20182/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0K
+ create mode 100644 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0K
+ create mode 100644 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0K
+ create mode 100644 20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0K
+ create mode 100644 20182/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0K
+ create mode 100644 20182/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.js[0K
+ create mode 100644 20182/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables.min.css[0K
+ create mode 100644 20182/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.min.js[0K
+ create mode 100644 20182/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHighlight.css[0K
+ create mode 100644 20182/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHighlight.min.js[0K
+ create mode 100644 20182/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchart.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/motion.css[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/reset.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/symbols-extra.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/text-symbols.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts-3d.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts-more.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/modules/map.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/accessibility.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/annotations.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/boost-canvas.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/boost.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/broken-axis.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bullet.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/data.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/drag-panes.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/drilldown.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/export-data.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/exporting.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/funnel.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/gantt.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/grid-axis.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/heatmap.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/histogram-bellcurv[0Ke
 .js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/accessi[0Kb
-ility.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/annotat[0Ki
-ons.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/boost-c[0Ka
-nvas.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/boost.j[0Ks
-[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/broken-[0Ka
-xis.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bullet.[0Kj
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/item-series.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/no-data-to-display[0K.
+js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/offline-exporting.[0Kj
 s[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/data.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/drag-pa[0Kn
-es.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/drilldo[0Kw
-n.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/export-[0Kd
-ata.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/exporti[0Kn
-g.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/funnel.[0Kj
-s[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/gantt.j[0Ks
-[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/grid-ax[0Ki
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/oldie.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/overlapping-datala[0Kb
+els.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/parallel-coordinat[0Ke
 s.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/heatmap[0K.
-js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/histogr[0Ka
-m-bellcurve.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/item-se[0Kr
-ies.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/no-data[0K-
-to-display.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/offline[0K-
-exporting.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/oldie.j[0Ks
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pareto.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/sankey.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/series-label.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/solid-gauge.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/static-scale.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/stock.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/streamgraph.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/sunburst.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/treemap.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/variable-pie.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/variwide.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/vector.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/windbarb.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wordcloud.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/xrange.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/annotations.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/draggable-legend.j[0Ks
 [0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/overlap[0Kp
-ing-datalabels.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/paralle[0Kl
--coordinates.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pareto.[0Kj
-s[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/sankey.[0Kj
-s[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/series-[0Kl
-abel.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/solid-g[0Ka
-uge.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/static-[0Ks
-cale.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/stock.j[0Ks
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/draggable-points.j[0Ks
 [0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/streamg[0Kr
-aph.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/sunburs[0Kt
-.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/treemap[0K.
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/export-csv.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/grouped-categories[0K.
 js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/variabl[0Ke
--pie.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/variwid[0Ke
-.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/vector.[0Kj
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/highcharts-regress[0Ki
+on.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/motion.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/multicolor_series.[0Kj
 s[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/windbar[0Kb
-.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wordclo[0Ku
-d.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/xrange.[0Kj
-s[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/annotat[0Ki
-ons.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/draggab[0Kl
-e-legend.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/draggab[0Kl
-e-points.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/export-[0Kc
-sv.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/grouped[0K-
-categories.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/highcha[0Kr
-ts-regression.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/motion.[0Kj
-s[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/multico[0Kl
-or_series.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/pattern[0K-
-fill-v2.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/tooltip[0K-
-delay.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/highstock[0K.
-js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgrid.css[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0K
- create mode 100644 20181/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/css/motion.css[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/custom/reset.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/highcharts.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/boost.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/data.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/stock.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/vector.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
- create mode 100644 20181/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
- create mode 100644 20181/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
- create mode 100644 20181/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
- create mode 100644 20181/libraryjs/jquery-1.11.1/jquery.min.js[0K
- create mode 100644 20181/libraryjs/jquery-1.12.4/LICENSE.txt[0K
- create mode 100644 20181/libraryjs/jquery-1.12.4/jquery.min.js[0K
- create mode 100644 20181/libraryjs/jszip-1.10.16/jszip.min.js[0K
- create mode 100644 20181/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
- create mode 100644 20181/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
- create mode 100644 20181/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- create mode 100644 20181/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- create mode 100644 20181/libraryjs/proj4js-2.3.15/proj4.js[0K
- create mode 100644 20181/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
- create mode 100644 20181/libraryjs/selectize-0.12.0/selectize.min.js[0K
- create mode 100644 G_Docentes.Rproj[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/tooltip-delay.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/highstock.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgrid.css[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0K
+ create mode 100644 20182/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/css/motion.css[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/custom/reset.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/highcharts.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/boost.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/data.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/stock.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/vector.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
+ create mode 100644 20182/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
+ create mode 100644 20182/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
+ create mode 100644 20182/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
+ create mode 100644 20182/libraryjs/jquery-1.11.1/jquery.min.js[0K
+ create mode 100644 20182/libraryjs/jquery-1.12.4/LICENSE.txt[0K
+ create mode 100644 20182/libraryjs/jquery-1.12.4/jquery.min.js[0K
+ create mode 100644 20182/libraryjs/jszip-1.10.16/jszip.min.js[0K
+ create mode 100644 20182/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
+ create mode 100644 20182/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
+ create mode 100644 20182/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
+ create mode 100644 20182/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
+ create mode 100644 20182/libraryjs/proj4js-2.3.15/proj4.js[0K
+ create mode 100644 20182/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
+ create mode 100644 20182/libraryjs/selectize-0.12.0/selectize.min.js[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Doc[0Ke
-ntes[0;36m (master)[0m[0K
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Docentes[0;36m (mast[0Ke
+r)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
 error: cannot spawn rpostback-askpass: No such file or directory[0K
@@ -970,40 +988,22 @@ Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://gi
 error: cannot spawn rpostback-askpass: No such file or directory[0K
 Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 309, done.[0K[?25l
-[0K[?25hDelta compression using up to 8 threads.[0K[?25l
-Compressing objects:  41% (121/293)[0K[1G[?25hCompressing objects: 100% (293/293), done.[0K[?25l
-Writing objects:   8% (25/309)[0K[1G[?25h[?25lWriting objects:  30% (93/309)[0K[1G[?25h[?25lWriting objects:  56% (175/309)[0K[1G[?25h[?25lWriting objects:  81% (251/309)[0K[1G[?25h[?25lWriting objects:  88% (272/309)[0K[1G[?25h[?25lWriting objects:  88% (275/309), 984.00 KiB | 863.00 KiB/s[0K[1G[?25h[?25lWriting objects:  94% (291/309), 984.00 KiB | 863.00 KiB/s[0K[1G[?25h[?25lWriting objects:  97% (300/309), 984.00 KiB | 863.00 KiB/s[0K[1G[?25h[?25lWriting objects:  98% (303/309), 984.00 KiB | 863.00 KiB/s[0K[1G[?25h[?25lWriting objects: 100% (309/309), 984.00 KiB | 863.00 KiB/s[0K[1G[?25hWriting objects: 100% (309/309), 1.08 MiB | 817.00 KiB/s, done.[0K[?25l
-Total 309 (delta 51), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  47% (24/51)[0K[1G[?25h[?25lremote: Resolving deltas:  76% (39/51)[0K[1G[?25hremote: Resolving deltas: 100% (51/51), done.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: Create a pull request for 'master' on GitHub by visiting:[0K
-remote:      https://github.com/estadisticaun/G_Docentes/pull/new/master[0K
-remote:[0K
+[0K[?25hCounting objects: 44, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (40/40), done.[0K
+Writing objects: 100% (44/44), 28.35 KiB | 4.73 MiB/s, done.[0K
+Total 44 (delta 25), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  96% (24/25)[0K[1G[?25hremote: Resolving deltas: 100% (25/25), completed with 1 local object.[0K[?25l
 [0K[?25hTo https://github.com/estadisticaun/G_Docentes.git[0K[?25l
- * [new branch]      master -> master[0K
+   3f334f5..fe2b831  master -> master[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Doc[0Ke
-ntes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Kui[0Ks[0K[?25l$ git statui[0K[?25h[?25l$ git statu[0K[?25h[?25l$ git stat[0K[?25hu[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/E0C9ECB1[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Doc[0Ke
-ntes[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Docentes[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Docentes[0;36m (mast[0Ke
 r)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Docentes[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docent[0Ke
+s/G_Docentes[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Kat[0Ku[0Ks[0K[?25l
 [0K[?25hOn branch master[0K[?25l
 Your branch is up-to-date with 'origin/master'.[0K
 [0K
@@ -1013,23 +1013,528 @@ Changes not staged for commit:[0K
 [0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/E0C9ECB1[0m[0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-8B20F5D2/A30C88E8[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-8B20F5D2/A30C88E8-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-8B20F5D2/lock_file[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-E404782F/A30C88E8[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-E404782F/A30C88E8-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-E404782F/lock_file[0m[0K
+        [0;31mdeleted:    20182/A_categoria.html[0m[0K
+        [0;31mdeleted:    20182/A_dedicacion.html[0m[0K
+        [0;31mdeleted:    20182/A_edad.html[0m[0K
+        [0;31mdeleted:    20182/A_formacion.html[0m[0K
+        [0;31mdeleted:    20182/A_lformacion.html[0m[0K
+        [0;31mdeleted:    20182/A_nacionalidad.html[0m[0K
+        [0;31mdeleted:    20182/A_sede.html[0m[0K
+        [0;31mdeleted:    20182/A_servicio.html[0m[0K
+        [0;31mdeleted:    20182/A_sexo.html[0m[0K
+        [0;31mdeleted:    20182/S_categoria.html[0m[0K
+        [0;31mdeleted:    20182/S_dedicacion.html[0m[0K
+        [0;31mdeleted:    20182/S_edad.html[0m[0K
+        [0;31mdeleted:    20182/S_formacion.html[0m[0K
+        [0;31mdeleted:    20182/S_lformacion.html[0m[0K
+        [0;31mdeleted:    20182/S_nacionalidad.html[0m[0K
+        [0;31mdeleted:    20182/S_sede.html[0m[0K
+        [0;31mdeleted:    20182/S_servicio.html[0m[0K
+        [0;31mdeleted:    20182/S_sexo.html[0m[0K
+        [0;31mdeleted:    20182/Serie.html[0m[0K
+        [0;31mdeleted:    20182/T_categoria.html[0m[0K
+        [0;31mdeleted:    20182/T_dedicacion.html[0m[0K
+        [0;31mdeleted:    20182/T_edad.html[0m[0K
+        [0;31mdeleted:    20182/T_formacion.html[0m[0K
+        [0;31mdeleted:    20182/T_lformacion.html[0m[0K
+        [0;31mdeleted:    20182/T_nacionalidad.html[0m[0K
+        [0;31mdeleted:    20182/T_sede.html[0m[0K
+        [0;31mdeleted:    20182/T_servicio.html[0m[0K
+        [0;31mdeleted:    20182/T_sexo.html[0m[0K
+        [0;31mdeleted:    20182/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0m[0K
+        [0;31mdeleted:    20182/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/css/datatables-crosstalk.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/datatables.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/datatables.yaml[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/css/autoFill.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/css/autoFill.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/css/autoFill.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/css/autoFill.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/css/autoFill.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/css/autoFill.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/js/autoFill.bootstrap.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/js/autoFill.bootstrap4.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/js/autoFill.foundation.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/js/autoFill.jqueryui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/js/autoFill.semanticui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Aut[0Ko
+Fill/js/dataTables.autoFill.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/css/buttons.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/css/buttons.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/css/buttons.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/css/buttons.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/css/buttons.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/css/buttons.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.bootstrap.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.bootstrap4.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.colVis.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.flash.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.foundation.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.html5.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.jqueryui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.print.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/buttons.semanticui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/dataTables.buttons.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/jszip.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/pdfmake.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/js/vfs_fonts.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/But[0Kt
+ons/swf/flashExport.swf[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Col[0KR
+eorder/css/colReorder.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Col[0KR
+eorder/css/colReorder.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Col[0KR
+eorder/css/colReorder.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Col[0KR
+eorder/css/colReorder.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Col[0KR
+eorder/css/colReorder.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Col[0KR
+eorder/css/colReorder.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Col[0KR
+eorder/js/dataTables.colReorder.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dColumns/css/fixedColumns.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dColumns/css/fixedColumns.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dColumns/css/fixedColumns.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dColumns/css/fixedColumns.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dColumns/css/fixedColumns.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dColumns/css/fixedColumns.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dColumns/js/dataTables.fixedColumns.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dHeader/css/fixedHeader.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dHeader/css/fixedHeader.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dHeader/css/fixedHeader.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dHeader/css/fixedHeader.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dHeader/css/fixedHeader.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dHeader/css/fixedHeader.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Fix[0Ke
+dHeader/js/dataTables.fixedHeader.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Key[0KT
+able/css/keyTable.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Key[0KT
+able/css/keyTable.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Key[0KT
+able/css/keyTable.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Key[0KT
+able/css/keyTable.foundation.min.css[0m[0K
+[0K[9G[?25h[?25l        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Key[0KT
+able/css/keyTable.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Key[0KT
+able/css/keyTable.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Key[0KT
+able/js/dataTables.keyTable.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/css/responsive.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/css/responsive.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/css/responsive.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/css/responsive.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/css/responsive.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/css/responsive.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/js/dataTables.responsive.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/js/responsive.bootstrap.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/js/responsive.bootstrap4.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/js/responsive.foundation.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/js/responsive.jqueryui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Res[0Kp
+onsive/js/responsive.semanticui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KG
+roup/css/rowGroup.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KG
+roup/css/rowGroup.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KG
+roup/css/rowGroup.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KG
+roup/css/rowGroup.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KG
+roup/css/rowGroup.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KG
+roup/css/rowGroup.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KG
+roup/js/dataTables.rowGroup.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KR
+eorder/css/rowReorder.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KR
+eorder/css/rowReorder.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KR
+eorder/css/rowReorder.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KR
+eorder/css/rowReorder.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KR
+eorder/css/rowReorder.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KR
+eorder/css/rowReorder.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Row[0KR
+eorder/js/dataTables.rowReorder.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scr[0Ko
+ller/css/scroller.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scr[0Ko
+ller/css/scroller.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scr[0Ko
+ller/css/scroller.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scr[0Ko
+ller/css/scroller.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scr[0Ko
+ller/css/scroller.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scr[0Ko
+ller/css/scroller.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scr[0Ko
+ller/js/dataTables.scroller.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sel[0Ke
+ct/css/select.bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sel[0Ke
+ct/css/select.bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sel[0Ke
+ct/css/select.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sel[0Ke
+ct/css/select.foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sel[0Ke
+ct/css/select.jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sel[0Ke
+ct/css/select.semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Sel[0Ke
+ct/js/dataTables.select.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natura[0Kl
+/natural.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/search[0KH
+ighlight/dataTables.searchHighlight.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/search[0KH
+ighlight/dataTables.searchHighlight.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables-plugins/search[0KH
+ighlight/jquery.highlight.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+bootstrap.extra.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+bootstrap.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+bootstrap4.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+foundation.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+jqueryui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+material.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+semanticui.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables[0K.
+uikit.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dat[0Ka
+Tables.extra.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dat[0Ka
+Tables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.[0Kb
+ootstrap.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.[0Kb
+ootstrap4.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.[0Kf
+oundation.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.[0Kj
+queryui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.[0Km
+aterial.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.[0Ks
+emanticui.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.[0Ku
+ikit.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.data[0KT
+ables.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouisli[0Kd
+er.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouisli[0Kd
+er.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/selectize/selectize.boots[0Kt
+rap3.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.j[0Ks
+[0m[0K
+        [0;31mdeleted:    20182/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.cs[0Ks
+[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min.[0Kc
+ss[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.j[0Ks
+[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables.[0Km
+in.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.m[0Ki
+n.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchH[0Ki
+ghlight.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchH[0Ki
+ghlight.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.j[0Ks
+[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchart.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchart.yaml[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchart2.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchartct.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchartzero.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/mot[0Ki
+on.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/[0Kr
+eset.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/[0Ks
+ymbols-extra.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/[0Kt
+ext-symbols.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcha[0Kr
+ts-3d.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcha[0Kr
+ts-more.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcha[0Kr
+ts.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/mo[0Kd
+ules/map.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+accessibility.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+annotations.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+boost-canvas.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+boost.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+broken-axis.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+bullet.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+data.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+drag-panes.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+drilldown.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+export-data.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+exporting.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+funnel.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+gantt.js[0m[0K[?25h[?25l
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+grid-axis.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+heatmap.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+histogram-bellcurve.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+item-series.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+no-data-to-display.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+offline-exporting.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+oldie.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+overlapping-datalabels.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+parallel-coordinates.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+pareto.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+sankey.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+series-label.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+solid-gauge.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+static-scale.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+stock.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+streamgraph.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+sunburst.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+treemap.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+variable-pie.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+variwide.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+vector.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+windbarb.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+wordcloud.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules[0K/
+xrange.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+annotations.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+draggable-legend.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+draggable-points.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+export-csv.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+grouped-categories.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+highcharts-regression.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+motion.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+multicolor_series.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+pattern-fill-v2.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins[0K/
+tooltip-delay.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/h[0Ki
+ghstock.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgri[0Kd
+.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/css/motion.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/custom/reset.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/highcharts-3d.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/highcharts-more.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/highcharts.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/maps/modules/map.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/accessibility.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/annotations.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/boost.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/bullet.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/data.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/drilldown.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/export-data.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/exporting.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/funnel.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/gantt.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/heatmap.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/item-series.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/oldie.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/pareto.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/sankey.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/series-label.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/static-scale.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/stock.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/sunburst.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/treemap.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/variwide.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/vector.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/windbarb.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/modules/xrange.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/annotations.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/motion.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/highcharts-6.0.3/stock/highstock.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/jquery-1.11.1/jquery.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/jquery-1.12.4/LICENSE.txt[0m[0K
+        [0;31mdeleted:    20182/libraryjs/jquery-1.12.4/jquery.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/jszip-1.10.16/jszip.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/proj4js-2.3.15/proj4.js[0m[0K
+        [0;31mdeleted:    20182/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0m[0K
+        [0;31mdeleted:    20182/libraryjs/selectize-0.12.0/selectize.min.js[0m[0K
 [0K
 Untracked files:[0K
   (use "git add <file>..." to include in what will be committed)[0K
 [0K
-        [0;31m.Rhistory[0m[0K
-        [0;31m.Rproj.user/B994EF53/pcs/[0m[0K
-        [0;31m.Rproj.user/B994EF53/rmd-outputs[0m[0K
-        [0;31m.Rproj.user/B994EF53/saved_source_markers[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-E404782F/[0m[0K
-        [0;31m20182/[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-52E660AF/[0m[0K
+        [0;31m20182/Nal/[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docentes/G_Docentes[0;36m (mast[0Ke
-r)[0m[0K
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Docent[0Ke
+s/G_Docentes[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
